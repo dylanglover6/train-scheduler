@@ -1,0 +1,13 @@
+<script src="https://www.gstatic.com/firebasejs/4.11.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyBbeOfRzwsqhArdosORDieuVvJ4tJ_TKJw",
+    authDomain: "train-scheduler-aa411.firebaseapp.com",
+    databaseURL: "https://train-scheduler-aa411.firebaseio.com",
+    projectId: "train-scheduler-aa411",
+    storageBucket: "",
+    messagingSenderId: "296599220177"
+  };
+  firebase.initializeApp(config);
+</script>
